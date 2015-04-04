@@ -1,2 +1,2 @@
-# unfinished
-try to "WordPress".
+# UnFinished
+Webディレクター見習いがWordPressに初トライしてみるリポジトリ。
